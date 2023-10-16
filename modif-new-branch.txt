@@ -1,6 +1,0 @@
-c'est imen
-<<<<<<< HEAD
-
-=======
-j'aime laymouna <3
->>>>>>> imen
