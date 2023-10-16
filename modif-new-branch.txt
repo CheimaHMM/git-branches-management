@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-branch correction-bug
-=======
-modification dev
->>>>>>> hotfix/dev
